@@ -1,1 +1,1 @@
-docker compose exec wireguard /app/show-peer $@
+sudo docker compose exec wireguard /app/show-peer $@
